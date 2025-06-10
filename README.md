@@ -1,10 +1,4 @@
-# Piumi Sewumini  
-**sewumini2000**  
-![Followers](https://img.shields.io/github/followers/sewumini2000?style=social) · ![Following](https://img.shields.io/github/following/sewumini2000?style=social)
 
----
-
-### 👋 About Me
 
 I'm **Piumi Sewumini**!  
 🎓 Undergraduate in the Department of Computer Science at **EUSL**  
@@ -15,7 +9,7 @@ I'm **Piumi Sewumini**!
 
 ### 🌐 Connect with Me
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/piyumi-sewumini-849a0225a/)
+- [![LinkedIn](https://www.linkedin.com/in/piyumi-sewumini-849a0225a/)
 - 📘 [Facebook](https://www.facebook.com/YOUR-FACEBOOK-USERNAME)
 
 
