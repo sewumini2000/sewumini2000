@@ -1,5 +1,5 @@
 
-#### I'm **Piumi Sewumini**!  
+# I'm Piumi Sewumini!  
 🎓 Undergraduate in the Department of Computer Science at **EUSL**  
 🌱 Currently learning **Java, Python, Web Development, and React**  
 📫 Reach me at: [piumisewumini@gmail.com](mailto:piumisewumini@gmail.com)
