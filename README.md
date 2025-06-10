@@ -1,4 +1,7 @@
-## Hi there 👋
+# Piumi Sewumini  
+**sewumini2000**  
+![Followers](https://img.shields.io/github/followers/sewumini2000?style=social) · ![Following](https://img.shields.io/github/following/sewumini2000?style=social)
+
 
 <!--
 **sewumini2000/sewumini2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
