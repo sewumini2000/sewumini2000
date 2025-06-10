@@ -9,7 +9,7 @@ I'm **Piumi Sewumini**!
 
 ### 🌐 Connect with Me
 
-- [![LinkedIn](https://www.linkedin.com/in/piyumi-sewumini-849a0225a/)
+- 💼[![LinkedIn](https://www.linkedin.com/in/piyumi-sewumini-849a0225a/)
 - 📘 [Facebook](https://www.facebook.com/YOUR-FACEBOOK-USERNAME)
 
 
