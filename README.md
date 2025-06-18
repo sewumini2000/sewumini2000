@@ -9,7 +9,8 @@
 ### 🌐 Connect with Me
 
 - 💼[LinkedIn](https://www.linkedin.com/in/piyumi-sewumini-849a0225a/)
-- 📘 [Facebook](https://www.facebook.com/YOUR-FACEBOOK-USERNAME)
+- 📘 [Facebook](https://www.facebook.com/share/1LqyF2a3aA/)
+- [![LinkedIn](https://img.shields.io/badge/💼%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/piyumi-sewumini-849a0225a/)
 
 
 ---
