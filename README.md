@@ -7,8 +7,12 @@
 
 ### 🌐 Connect with Me
 
-[![LinkedIn](https://cdn-icons-png.flaticon.com/512/174/174857.png)](https://www.linkedin.com/in/piyumi-sewumini-849a0225a/)  
-[![Facebook](https://cdn-icons-png.flaticon.com/512/145/145802.png)](https://www.facebook.com/share/1LqyF2a3aA/)
+<a href="https://www.linkedin.com/in/piyumi-sewumini-849a0225a/" target="_blank">
+  <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="40" />
+</a>
+<a href="https://www.facebook.com/share/1LqyF2a3aA/" target="_blank">
+  <img src="https://cdn-icons-png.flaticon.com/512/145/145802.png" alt="Facebook" width="40" />
+</a>
 
 ---
 
@@ -22,6 +26,7 @@
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/-React-20232A?style=flat&logo=react&logoColor=61DAFB"/>
 </p>
+
 
 
 
