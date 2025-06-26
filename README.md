@@ -8,9 +8,10 @@
 
 ### 🌐 Connect with Me
 
-- 💼[LinkedIn](https://www.linkedin.com/in/piyumi-sewumini-849a0225a/)
+- ![image](https://github.com/user-attachments/assets/bcdf7824-6d7f-43b1-b30a-5e9e136fec85)
+- ![image](https://github.com/user-attachments/assets/893258ff-f1e8-4557-a4be-98db0c8e5646)(https://www.linkedin.com/in/piyumi-sewumini-849a0225a/)
 - 📘 [Facebook](https://www.facebook.com/share/1LqyF2a3aA/)
-- [![LinkedIn](https://img.shields.io/badge/💼%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/piyumi-sewumini-849a0225a/)
+
 
 
 ---
