@@ -1,4 +1,3 @@
-
 # I'm Piumi Sewumini!  
 🎓 Undergraduate in the Department of Computer Science at **EUSL**  
 🌱 Currently learning **Java, Python, Web Development, and React**  
@@ -8,8 +7,8 @@
 
 ### 🌐 Connect with Me
 
-[<img src="https://your-image-host.com/linkedin-icon.png" alt="LinkedIn" width="30"/>](https://www.linkedin.com/in/piyumi-sewumini-849a0225a/)  
-[<img src="https://your-image-host.com/facebook-icon.png" alt="Facebook" width="30"/>](https://www.facebook.com/share/1LqyF2a3aA/)
+[![LinkedIn](https://cdn-icons-png.flaticon.com/512/174/174857.png)](https://www.linkedin.com/in/piyumi-sewumini-849a0225a/)  
+[![Facebook](https://cdn-icons-png.flaticon.com/512/145/145802.png)](https://www.facebook.com/share/1LqyF2a3aA/)
 
 ---
 
@@ -23,5 +22,6 @@
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/-React-20232A?style=flat&logo=react&logoColor=61DAFB"/>
 </p>
+
 
 
