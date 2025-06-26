@@ -8,10 +8,10 @@
 ### 🌐 Connect with Me
 
 <a href="https://www.linkedin.com/in/piyumi-sewumini-849a0225a/" target="_blank">
-  <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="40" />
+  <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="30" />
 </a>
 <a href="https://www.facebook.com/share/1LqyF2a3aA/" target="_blank">
-  <img src="https://cdn-icons-png.flaticon.com/512/145/145802.png" alt="Facebook" width="40" />
+  <img src="https://cdn-icons-png.flaticon.com/512/145/145802.png" alt="Facebook" width="30" />
 </a>
 
 ---
